@@ -1,0 +1,4 @@
+User-Agent: EasouSpider
+Disallow: /
+
+Sitemap: http://tim-keller.info/sitemap.xml
