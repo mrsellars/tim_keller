@@ -1,4 +1,4 @@
-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
   <url>
     <loc>http://tim-keller.info</loc>
     <lastmod>2015-07-05T01:00:04+02:00</lastmod>
@@ -11,4 +11,4 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-</urlset>
+</sitemapindex>
